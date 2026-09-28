@@ -1,6 +1,6 @@
 # FinEco-hw — LN429 金融计量 作业仓库
 
-- 作者：魏致衡（LN429）
+- 作者：魏致衡（24330093）
 - 课程：中山大学岭南学院 LN429 金融计量（连玉君）
 - HW02 作业页面：<https://lianxhcn.github.io/FinEco/exercises/hw-02.html>
 
